@@ -3,7 +3,8 @@
 - 🌱 Estoy ampliando mis conocimientos en Angular con el objetivo de desarrollar aplicaciones web robustas, como un sistema de gestión de ventas e inventario. A pesar de no contar con experiencia laboral formal, he dedicado tiempo a crear proyectos personales, poniendo en práctica conceptos de escalabilidad y explorando las posibilidades de extender mis habilidades al desarrollo móvil en el futuro.
 - 📫 Puedes contactarme en mi
     + 📧: j.claveria@gmail.com
-    + Linkdin : https://www.linkedin.com/in/juan-ignacio-claver%C3%ADa-255606301/
+    + Linkedin: https://www.linkedin.com/in/juan-ignacio-claver%C3%ADa-255606301/
+    + 💼 : https://juanin92.github.io/
 - ⚡ Fun fact:
   + Soy de las personas que no se queda tranquila hasta que encuentra la solucion algún problemas.
   + Apasionado por la música.🤘🤘
