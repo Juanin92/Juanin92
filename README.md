@@ -10,7 +10,7 @@
   + Apasionado por la música.🤘🤘
   + Front es mi gran nemesis pero nunca derrotado. 😂
 
->[!NOTE]
+>[!Stack Tecnológico]
 >Java - TS - Angular - JS - MySQL
 
 <!---
