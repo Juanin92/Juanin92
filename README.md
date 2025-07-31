@@ -1,19 +1,40 @@
-- 👋 Hola, Soy Juan Ignacio
-- 👀 Soy un desarrollador Full-Stack con una gran pasión por la tecnología. Actualmente estoy ampliando y profundizando mis habilidades con Angular para construir aplicaciones web robustas. Con experiencia en Java, javaScript y TypeScript. Estoy interesado en formar parte de una comunidad de desarrolladores donde pueda compartir conocimientos y seguir aprendiendo. 
-- 🌱 Estoy ampliando mis conocimientos en Angular con el objetivo de desarrollar aplicaciones web robustas, como un sistema de gestión de ventas e inventario. A pesar de no contar con experiencia laboral formal, he dedicado tiempo a crear proyectos personales, poniendo en práctica conceptos de escalabilidad y explorando las posibilidades de extender mis habilidades al desarrollo y automatización.
-- 📫 Puedes contactarme en mi
-    + 📧: j.claveria@gmail.com
-    + Linkedin: https://www.linkedin.com/in/juan-ignacio-claver%C3%ADa-255606301/
-    + 💼 : https://juanin92.github.io/
-- ⚡ Fun fact:
-  + Soy de las personas que no se queda tranquila hasta que encuentra la solucion algún problema.
-  + Apasionado por la música.🤘🤘
-  + Front es mi gran nemesis pero nunca derrotado. 😂
+# 👋 ¡Hola, soy Juan Ignacio!
 
->[!NOTE]
->Java - TS - Angular - JS - MySQL
+Desarrollador Full Stack en formación, con experiencia previa en administración, logística y ventas. Me especializo en tecnologías como Java, JavaScript y TypeScript, y actualmente desarrollo aplicaciones web dinámicas con Angular. Además, tengo experiencia práctica en herramientas DevOps como Jenkins, GitHub Actions y Docker, enfocándome en automatización, integración continua y control de calidad.
 
-<!---
-Juanin92/Juanin92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🚀 En qué estoy trabajando
+- Diseño de pipelines CI/CD con GitHub Actions y Jenkins
+- Análisis de código y calidad con SonarQube y SonarCloud
+- Testing de carga y rendimiento con JMeter
+- Contenerización de aplicaciones con Docker para entornos reproducibles
+- Proyectos personales centrados en escalabilidad, testing y automatización
+
+## 🧪 Testing como prioridad
+Integrar pruebas desde el inicio del desarrollo es parte clave de mi enfoque. Las herramientas de testing que utilizo permiten mejorar calidad, anticipar fallos y optimizar entregas.
+
+## 🛠️ Tecnologías & Herramientas
+- Lenguajes: Java | TypeScript | JavaScript  
+- Frameworks: Angular | Spring Boot
+- seguridad: Spring Security | JWT
+- CI/CD: GitHub Actions | Jenkins  
+- Contenedores: Docker  
+- Calidad: SonarQube | SonarCloud  
+- Testing: JMeter | Junit | Jest
+- Bases de datos: MySQL  
+- Diagramación técnica para flujos y arquitecturas de despliegue
+
+## 📫 Contacto
+- ✉️ Email: [j.claveria@gmail.com](mailto:j.claveria@gmail.com)  
+- 💼 Portafolio: [juanin92.github.io](https://juanin92.github.io)  
+- 🔗 LinkedIn: [Juan Ignacio Clavería](https://www.linkedin.com/in/juan-ignacio-claver%C3%ADa-255606301/)
+
+## ⚡ Fun facts
+- No me quedo tranquilo hasta encontrar la solución 💡  
+- Apasionado por la música, es mi cable a tierra y mi fuente de inspiración 🎸  
+- El frontend me ha dado más peleas que un jefe final... pero acá sigo, ganando rounds 😄
+- Angular me entrenó para la batalla: pipes, forms, y bugs invisibles 🥷
+- Tengo más tests que paciencia, pero igual testeo 🧪
+- A veces aplico SOLID… y otras veces solo aplico Ctrl+Z 🔁 
+
+> [!NOTE]
+> Full Stack en evolución, con enfoque en automatización, testing y despliegue continuo mediante herramientas prácticas como Docker y Jenkins.
